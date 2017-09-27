@@ -10,7 +10,3 @@ tags:
 
 ### 第一次搭建自己的博客感悟
 我是一个不愿意做笔记的人，建立自己的博客，希望把自己平时的收获都能积累起来，厚积薄发，希望有一天成为一个优秀的人。
-{% codeblock %}
-alert('Hello World!33');
-{% endcodeblock %}
-{% youtube C7azxUTSgEM %}
