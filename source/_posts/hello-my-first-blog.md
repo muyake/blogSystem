@@ -1,5 +1,6 @@
 ---
 title: 'hello,my first blog'
+comments: true
 date: 2017-09-26 10:52:01
 categories:
   - 生活感悟  
